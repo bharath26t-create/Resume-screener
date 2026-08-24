@@ -133,3 +133,7 @@ job description, click "Screen Resume." Results also get saved to
 For the demo video deliverable: screen 2-3 different resumes against the
 same job description on camera so the score differences are visible, then
 show the `/candidates` table populating live.
+
+start===
+<img width="1513" height="767" alt="image" src="https://github.com/user-attachments/assets/281f59b4-c5a2-481b-aa79-a66afd51e20b" />
+
