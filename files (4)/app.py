@@ -58,6 +58,7 @@ def screen_resume():
         "justification": result["justification"],
         "predicted_category": predicted_category,
         "category_confidence": category_confidence,
+        "_fallback": result.get("_fallback", False),
     })
 
 
