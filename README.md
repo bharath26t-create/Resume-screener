@@ -137,3 +137,8 @@ show the `/candidates` table populating live.
 start===
 <img width="1513" height="767" alt="image" src="https://github.com/user-attachments/assets/281f59b4-c5a2-481b-aa79-a66afd51e20b" />
 
+result===
+<img width="1901" height="1018" alt="image" src="https://github.com/user-attachments/assets/f3f5ccaf-e39d-4022-875a-114699761d1f" />
+
+with result history===
+<img width="967" height="787" alt="image" src="https://github.com/user-attachments/assets/5a08bfd0-51b9-4ec6-8969-2e6f1eac93f8" />
